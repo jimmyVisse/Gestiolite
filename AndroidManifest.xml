@@ -22,6 +22,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="ActivityPlaces"
+            android:label="Places">
+        </activity>
+        <activity
+            android:name="DevicesKitchen"
+            android:label="Kitchen">
+        </activity>
+        <activity
+            android:name="SpecificDeviceKitchen"
+            android:label="Kitchen">
+        </activity>
     </application>
 
 </manifest>

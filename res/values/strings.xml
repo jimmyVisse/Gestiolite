@@ -3,8 +3,14 @@
 
     <string name="app_name">Android App TUB</string>
     <string name="hello_world">Hello world!</string>
+    <string name="activity_place">Places</string>
     <string name="types">Types</string>
     <string name="places">Places</string>
     <string name="states">States</string>
+    <string name="kitchen">Kitchen</string>
+    <string name="livingRoom">Living room</string>
+    <string name="bedroom">Bedroom</string>
+    <string name="office">Office</string>
+    <string name="bathroom">Bathroom</string>
 
 </resources>
